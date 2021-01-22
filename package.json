@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drclever/burger.git"
+    "url": "git+https://github.com/Michaelcrowderjr1/daburger.git"
   },
-  "author": "Donna Clever",
+  "author": "Michael Crowder",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/drclever/burger/issues"
+    "url": "https://github.com/Michaelcrowderjr1/daburger/issues"
   },
-  "homepage": "https://github.com/drclever/burger#readme",
+  "homepage": "https://github.com/Michaelcrowderjr1/daburger#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
